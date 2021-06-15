@@ -49,4 +49,4 @@ async def on_message(message):
 
 
 client.loop.create_task(update_stats())
-client.run("ODQ1NTY0MzgyNDU2OTcxMjc0.YKizMg.xo4BLoQZRPjVa4wNPlQtwIlHjSA")
+client.run("")
